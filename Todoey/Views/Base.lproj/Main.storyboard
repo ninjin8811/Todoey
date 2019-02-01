@@ -97,8 +97,8 @@
                             </tableViewCell>
                         </prototypes>
                         <connections>
-                            <outlet property="dataSource" destination="ROc-lk-rDS" id="FhX-0f-W5P"/>
-                            <outlet property="delegate" destination="ROc-lk-rDS" id="mmM-oU-e5f"/>
+                            <outlet property="dataSource" destination="ROc-lk-rDS" id="9xK-fo-Tnj"/>
+                            <outlet property="delegate" destination="ROc-lk-rDS" id="pyJ-Ic-KaR"/>
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Todoey" id="JVH-tV-MEU">
